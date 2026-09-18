@@ -1,7 +1,6 @@
 ﻿import re
 from typing import List, Set
 
-# Base technical skills taxonomy
 SKILL_DB = {
     "python", "javascript", "react", "node.js", "express", "mongodb", "postgresql",
     "sql", "fastapi", "flask", "docker", "kubernetes", "aws", "azure", "gcp",
